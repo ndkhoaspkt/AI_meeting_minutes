@@ -19,3 +19,5 @@ client = OpenAI( # OpenAI API key
 
 minutes = meeting_minutes(transcription)
 save_as_docx(minutes, filename)
+
+Go to this website to create another API Key: https://platform.openai.com/api-keys
